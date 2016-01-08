@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.CAMERA
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:17:5-19:35
+	android:required
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:19:9-32
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:18:9-49
+uses-feature#android.hardware.camera.any
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:21:19-61
+application
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:23:5-92:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] D:\CODE\android\WillChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:25:9-42
+	android:theme
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:27:9-52
+service#com.android.willchat.MessageService
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:28:9-30:38
+	android:enabled
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:30:13-35
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:29:13-63
+activity#com.android.willchat.SplashScreen
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:screenOrientation
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:33:13-49
+	android:theme
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:34:13-40
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:32:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.android.willchat.MainActivity
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:41:13-61
+activity#com.android.willchat.ChatActivity
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:44:9-49:20
+	android:label
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:47:13-56
+	android:launchMode
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:48:13-43
+	android:configChanges
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:46:13-74
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:45:13-61
+activity#com.android.willchat.ViewImageActivity
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:50:9-56:20
+	android:label
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:53:13-62
+	android:parentActivityName
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:54:13-75
+	android:configChanges
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:51:13-66
+activity#com.android.willchat.RecordAudioActivity
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:57:9-62:20
+	android:label
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:59:13-64
+	android:parentActivityName
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:60:13-75
+	android:configChanges
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:58:13-68
+activity#com.android.willchat.PlayVideoActivity
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:63:9-67:20
+	android:label
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:65:13-62
+	android:configChanges
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:66:13-74
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:64:13-66
+activity#com.android.willchat.FilePickerActivity
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:68:9-73:20
+	android:label
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:70:13-63
+	android:parentActivityName
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:71:13-75
+	android:configChanges
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:72:13-74
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:69:13-67
+activity#com.android.willchat.WebViewActivity
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:74:9-87:20
+	android:label
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:77:13-60
+	android:parentActivityName
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:78:13-75
+	android:configChanges
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:76:13-74
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:75:13-64
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:79:13-86:29
+action#android.intent.action.VIEW
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:80:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:82:17-76
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:82:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:83:17-78
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:83:27-75
+data
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:85:17-51
+	android:scheme
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:85:23-48
+activity#com.android.willchat.DrawingActivity
+ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:88:9-91:20
+	android:label
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:90:13-59
+	android:name
+		ADDED from D:\CODE\android\WillChat\app\src\main\AndroidManifest.xml:89:13-64

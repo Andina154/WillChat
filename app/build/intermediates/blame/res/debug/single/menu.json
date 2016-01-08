@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\CODE\\android\\WillChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "D:\\CODE\\android\\WillChat\\app\\src\\main\\res\\menu\\send_image.xml"
+    },
+    {
+        "merged": "D:\\CODE\\WiFiDIrectDemo-master\\WillChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\CODE\\WiFiDIrectDemo-master\\WillChat\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\CODE\\android\\WillChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "D:\\CODE\\android\\WillChat\\app\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "D:\\CODE\\WiFiDIrectDemo-master\\WillChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "D:\\CODE\\WiFiDIrectDemo-master\\WillChat\\app\\src\\main\\res\\menu\\send_image.xml"
+    },
+    {
+        "merged": "D:\\CODE\\WiFiDIrectDemo-master\\WonderCom-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "D:\\CODE\\WiFiDIrectDemo-master\\WonderCom-master\\app\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "D:\\CODE\\android\\WillChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\CODE\\android\\WillChat\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\CODE\\WiFiDIrectDemo-master\\WillChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "D:\\CODE\\WiFiDIrectDemo-master\\WillChat\\app\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "D:\\CODE\\WiFiDIrectDemo-master\\WonderCom-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\CODE\\WiFiDIrectDemo-master\\WonderCom-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\CODE\\WiFiDIrectDemo-master\\WonderCom-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "D:\\CODE\\WiFiDIrectDemo-master\\WonderCom-master\\app\\src\\main\\res\\menu\\send_image.xml"
+    }
+]

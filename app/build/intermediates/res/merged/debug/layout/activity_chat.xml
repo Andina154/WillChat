@@ -1,0 +1,60 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            >
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ListView 
+        android:id="@+id/messageList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/writeZone"
+        android:fadeScrollbars="true"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:background="@color/app_background"
+        android:layout_weight="2"></ListView>
+    
+    <LinearLayout
+        android:id="@id/writeZone"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:background="@color/app_background" >
+        
+	    <EditText 
+	        android:id="@+id/editMessage"
+	        android:layout_width="0dp"
+	        android:layout_weight="5"
+	        android:layout_height="match_parent"
+	        android:inputType="textMultiLine|textCapSentences"
+	        android:maxLines="4"
+	        android:hint="@string/enter_text"/>
+	    <Button 
+	        android:id="@+id/sendMessage"
+	        android:layout_width="0dp"
+	        android:layout_weight="0.8"
+	        android:layout_height="match_parent"
+            android:background="@drawable/send"
+            android:layout_marginRight="5dp" />
+	
+	</LinearLayout>
+    
+</LinearLayout>
+
